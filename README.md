@@ -6,5 +6,5 @@ programa para saber el costo de una llamada dependiendo la duracion de la misma
 # Diseño
 
 ## Diagrama de flujo
-![Diagrama de flujo](diagrama.png"diagrama de flujo")
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
 
